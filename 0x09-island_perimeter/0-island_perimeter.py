@@ -3,9 +3,7 @@
 
 
 def isLand_perimeter(grid):
-    '''
-    IsLand Perimeter function
-    '''
+    '''IsLand Perimeter function'''
     conteur = 0
     grd_max = len(grid) - 1  # last list in the grid
     lst_max = len(grid[0]) - 1  # last square in list
